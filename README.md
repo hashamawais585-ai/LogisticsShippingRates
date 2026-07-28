@@ -1,1 +1,2 @@
-This repository contains a simple interest calculator bash script. It calculates simple interest using principal, rate of interest, and time period.
+# Simple Interest Calculator
+A calculator that computes simple interest given principal, annual rate of interest and time period in years.
